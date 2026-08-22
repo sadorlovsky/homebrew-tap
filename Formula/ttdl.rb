@@ -8,7 +8,7 @@ class Ttdl < Formula
   desc "Archive a whole TikTok account: videos, photo carousels, metadata, thumbnails"
   homepage "https://ttdl.orlovsky.dev"
   url "https://github.com/sadorlovsky/ttdl/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "REPLACE_AFTER_TAGGING"
+  sha256 "d033f803353629aaedcd137d10217a09a7b410d03a4242fb1d46bc509d5822b9"
   license "MIT"
   head "https://github.com/sadorlovsky/ttdl.git", branch: "main"
 
